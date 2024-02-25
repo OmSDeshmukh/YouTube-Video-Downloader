@@ -1,3 +1,5 @@
+# function do be executed on finishing downloading
+# but did not use since fucntionality already present in stream.download() API
 import os
 import shutil
 

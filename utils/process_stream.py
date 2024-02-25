@@ -1,8 +1,8 @@
-# to process a stream
+# to process a stream into a dictionary
 import re
 
 def process_stream(i):
-    i_filesize = i.filesize
+    i_filesize = i.filesize_mb
     i = str(i)
     pattern = r'(\w+)\s*=\s*"([^"]+)"'
     matches = re.findall(pattern, i)
