@@ -1,4 +1,4 @@
-# to process a stream into a dictionary
+# to process a YouTube stream into a dictionary
 import re
 
 def process_stream(i):

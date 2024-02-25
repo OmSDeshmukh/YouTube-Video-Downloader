@@ -1,3 +1,4 @@
+# handles the input from the user
 from pytube import YouTube
 
 import sys

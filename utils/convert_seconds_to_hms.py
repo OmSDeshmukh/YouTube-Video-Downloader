@@ -1,5 +1,5 @@
+# convert time in seconds to hours, minutes, and seconds
 def convert_seconds_to_hms(seconds):
-    # Calculate hours, minutes, and seconds
     hours = seconds // 3600
     seconds %= 3600
     minutes = seconds // 60
