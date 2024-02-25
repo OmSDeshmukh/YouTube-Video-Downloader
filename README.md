@@ -4,7 +4,7 @@
 ![](images/example.png)
 
 ## Project Highlights
-- Provide the code with the link of the YouTube Video you want to donwload
+- Provide with the link of the YouTube Video you want to donwload
 - Also, provide further choices for what resolution to download
 - The respective YouTube video if exists will be downloaded in the Downloaded_Videos folder
 
