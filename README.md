@@ -1,6 +1,8 @@
 # YouTube Video Downloader
  Downloads youtube videos for you with just a link to the YouTube Video.
 
+![](images/example.png)
+
 ## Project Highlights
 - Provide the code with the link of the YouTube Video you want to donwload
 - Also, provide further choices for what resolution to download
